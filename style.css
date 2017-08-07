@@ -72,3 +72,52 @@ li
  	width: 60%;
 
  }
+ #ourservices
+ {
+ 	background-color: white;
+ 	color: black;
+ 	width: 100%;
+ 	height: 30%;
+ 	
+ 	margin-left: 15%;
+ 	
+ 	
+
+ }
+ #bluebox
+ {
+ 	background-color: blue;
+ 	height:60%;
+ 	width: 1%;
+ 	padding: 10%;
+ 	float: left;
+ 	margin-left:3%;
+ 	margin-top: 1%
+ }
+#afterblue
+{
+	margin-top: -10%;
+	color: black;
+	margin-top: 6%;
+	float: left;
+	margin-left:13%;
+}
+#bigtext
+{ margin-top: 8%;
+	color: black;
+	margin-left: 15%;
+
+
+}
+#footerbox
+{
+	background-color: grey;
+	color:black;
+	
+}
+ 	
+ 	
+
+
+ 
+ 
